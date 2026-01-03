@@ -641,10 +641,11 @@ h3{
 @media (max-width: 767px) {
     /* Стили для мобильных */
   
-body {
+/*body {
     font-size: 10px;
     line-height: 1,6;
    
-}
+}*/
+
 
 }
